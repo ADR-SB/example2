@@ -1,0 +1,1 @@
+git branch --set-upstream-to=origin/newbranch2 newbranch2
